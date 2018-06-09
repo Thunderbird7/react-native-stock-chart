@@ -14,7 +14,7 @@ To run on simulator
 To run on physical device (iOS only)
 
 Follow instructions as listed here in "Building Project with Native Code" section in addition to instructions below:
-[https://facebook.github.io/react-native/docs/getting-started.html]
+[https://facebook.github.io/react-native/docs/getting-started.html](url)
 
 1. Open ios folder in Xcode
 2. Connect physical device (iPhone)
