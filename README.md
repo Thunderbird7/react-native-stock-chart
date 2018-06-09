@@ -29,8 +29,8 @@ Follow instructions as listed here in "Building Project with Native Code" sectio
 
 # Error Reproduction
 
-![Behavior on simulator](https://imgur.com/a/P8QUNfg)
+![Behavior on simulator](https://imgur.com/MfsOdVI)
 
-![Behavior on physical device](https://imgur.com/a/FdhE1yF)
+![Behavior on physical device](https://imgur.com/YZBNVAf)
 
 Simply press/hold on chart and pan left and right. Performance on physical device with this application is acceptable but notice how much slower it is relative to simulator. This is also a very very lightweight application which helps with performance. In a more complicated application, especially one which uses redux for cross-component communication, this performance is significantly lower.
