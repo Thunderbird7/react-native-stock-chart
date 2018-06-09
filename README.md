@@ -29,7 +29,11 @@ Follow instructions as listed here in "Building Project with Native Code" sectio
 
 # Error Reproduction
 
+Simulator:
+
 ![Behavior on simulator](https://media.giphy.com/media/37QUUAzrFlfQsabISo/giphy.gif)
+
+Physical Device:
 
 ![Behavior on physical device](https://media.giphy.com/media/9uIjwIOlFpHUHVAYSH/giphy.gif)
 
